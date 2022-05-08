@@ -11,3 +11,8 @@ da se napise
  
  ** testing**
  **testing _and_**
+*TESTING
+ --TESTING
+ >>TESTING
+ <Testing
+          
