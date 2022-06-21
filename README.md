@@ -15,28 +15,4 @@ da se napise
  --TESTING
  >>TESTING
  <Testing
-          
-somethiing
-          someeething
-          \somewhere
-  
-          
-          \\\something
-ASd
-          ASd
-          ASD
-              
-          
-          asd 
-          asd 
-          asd
-asdasdasdasd
-ASd
-          ASd
-          ASD
-              
-          
-          asd 
-          asd 
-          asd
-asdasdasdasd
+
