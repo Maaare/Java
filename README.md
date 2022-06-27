@@ -22,3 +22,9 @@ da se napise
  --TESTING
  >>TESTING
  <Testing
+ ** testing**
+ **testing _and_**
+*TESTING
+ --TESTING
+ >>TESTING
+ <Testing
