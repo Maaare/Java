@@ -16,15 +16,8 @@ da se napise
  >>TESTING
  <Testing
  
- ** testing**
- **testing _and_**
-*TESTING
- --TESTING
- >>TESTING
- <Testing
- ** testing**
- **testing _and_**
-*TESTING
- --TESTING
- >>TESTING
- <Testing
+- Ponedeljak je
+- moram da odradim sat vremena DS
+- moram da zovem Ivana
+- moram da pocnem Python
+- moram u WC
