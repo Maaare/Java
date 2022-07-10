@@ -16,8 +16,7 @@ da se napise
  >>TESTING
  <Testing
  
-- Ponedeljak je
 - moram da odradim sat vremena DS
-- moram da zovem Ivana
 - moram da pocnem Python
 - moram u WC
+- Miljan vcrs i ranije u krevet idem na sistematski sutra
