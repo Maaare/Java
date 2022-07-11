@@ -18,5 +18,6 @@ da se napise
  
 - moram da odradim sat vremena DS
 - moram da pocnem Python
-- moram u WC
-- Miljan vcrs i ranije u krevet idem na sistematski sutra
+- idi u zdravu hranu
+- idi u apoteku
+- uzmi da jedes
