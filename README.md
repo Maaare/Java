@@ -18,6 +18,8 @@ da se napise
  
 - moram da odradim sat vremena DS
 - moram da pocnem Python
-- idi u zdravu hranu
-- idi u apoteku
-- uzmi da jedes
+- odmori 20 - 30 minuta
+- pogledaj posao sta ceka
+- otkucaj sta imas
+- spremi se za pokret u Euromedik
+- pogledaj 67 i 71 red voznje
