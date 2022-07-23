@@ -16,10 +16,8 @@ da se napise
  >>TESTING
  <Testing
  
-- moram da odradim sat vremena DS
-- moram da pocnem Python
-- odmori 20 - 30 minuta
-- pogledaj posao sta ceka
-- otkucaj sta imas
-- spremi se za pokret u Euromedik
-- pogledaj 67 i 71 red voznje
+- moram da odradim sat vremena DS i LAAG
+- krecem ozbiljno sada oko faxa
+- ne zadrzavaj se vcrs sa ovim
+- sutra na rucak 60 do 90 minuta
+
