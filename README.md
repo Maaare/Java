@@ -20,4 +20,5 @@ da se napise
 - krecem ozbiljno sada oko faxa
 - ne zadrzavaj se vcrs sa ovim
 - sutra na rucak 60 do 90 minuta
-
+- spremi se za sastanak
+- idi po dorucak
